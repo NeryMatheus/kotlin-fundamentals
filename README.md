@@ -1,4 +1,6 @@
-﻿# Conceitos Básicos de Kotlin
+﻿# Kotlin
+ 
+ ## Revendo alguns conceitos básicos de kotlin com o intuito de reforçar o que já sei
   - Variável mutável e imutável
   - Tipos de Variáveis
   - Concatenação
