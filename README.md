@@ -8,12 +8,11 @@
   - Estrutura condicional
   - Estrutura de repetição
   - Arrays
-  -
   - Funções
-  - Funções existentes
   - Listas
   - Sets
   - Maps 
+  - 
   - Datas
   
   
