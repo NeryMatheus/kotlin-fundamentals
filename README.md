@@ -11,12 +11,11 @@
   - Funções
   - Listas
   - Sets
-  - Maps 
-  - 
+  - Maps
   - Datas
   
   
-# Conceitos Orientado a Objeto de Kotlin
+# Conceitos Orientado a Objeto em Kotlin
  - Classes
  - Encapsulamento
  - Herança
